@@ -3,3 +3,8 @@
 # Hint: try slicing with [::-1]
 
 # Your code here:
+
+word = input("enter a word")
+print(word[::-1])
+print(word[:: 2])
+print(word [:: 1])
