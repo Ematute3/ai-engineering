@@ -2,3 +2,5 @@
 # Goal: print a greeting using a variable for the name.
 
 # Your code here:
+name = "Evan"
+print(f"hello, {name}!")
